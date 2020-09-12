@@ -1,0 +1,12 @@
+D:\VStudio\Cliente\AppCliente\AppCliente\bin\Debug\AppCliente.exe.config
+D:\VStudio\Cliente\AppCliente\AppCliente\bin\Debug\AppCliente.exe
+D:\VStudio\Cliente\AppCliente\AppCliente\bin\Debug\AppCliente.pdb
+D:\VStudio\Cliente\AppCliente\AppCliente\bin\Debug\Newtonsoft.Json.dll
+D:\VStudio\Cliente\AppCliente\AppCliente\bin\Debug\RestSharp.dll
+D:\VStudio\Cliente\AppCliente\AppCliente\bin\Debug\Newtonsoft.Json.xml
+D:\VStudio\Cliente\AppCliente\AppCliente\bin\Debug\RestSharp.xml
+D:\VStudio\Cliente\AppCliente\AppCliente\obj\Debug\AppCliente.csprojAssemblyReference.cache
+D:\VStudio\Cliente\AppCliente\AppCliente\obj\Debug\AppCliente.csproj.CoreCompileInputs.cache
+D:\VStudio\Cliente\AppCliente\AppCliente\obj\Debug\AppCliente.csproj.CopyComplete
+D:\VStudio\Cliente\AppCliente\AppCliente\obj\Debug\AppCliente.exe
+D:\VStudio\Cliente\AppCliente\AppCliente\obj\Debug\AppCliente.pdb

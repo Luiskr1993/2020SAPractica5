@@ -1,0 +1,8 @@
+D:\VStudio\Restaurante\ServicioRestaurante\ServicioResturante.Datos\bin\Debug\netcoreapp1.1\ServicioResturante.Datos.deps.json
+D:\VStudio\Restaurante\ServicioRestaurante\ServicioResturante.Datos\bin\Debug\netcoreapp1.1\ServicioResturante.Datos.dll
+D:\VStudio\Restaurante\ServicioRestaurante\ServicioResturante.Datos\bin\Debug\netcoreapp1.1\ServicioResturante.Datos.pdb
+D:\VStudio\Restaurante\ServicioRestaurante\ServicioResturante.Datos\obj\Debug\netcoreapp1.1\ServicioResturante.Datos.csprojAssemblyReference.cache
+D:\VStudio\Restaurante\ServicioRestaurante\ServicioResturante.Datos\obj\Debug\netcoreapp1.1\ServicioResturante.Datos.csproj.CoreCompileInputs.cache
+D:\VStudio\Restaurante\ServicioRestaurante\ServicioResturante.Datos\obj\Debug\netcoreapp1.1\ServicioResturante.Datos.AssemblyInfo.cs
+D:\VStudio\Restaurante\ServicioRestaurante\ServicioResturante.Datos\obj\Debug\netcoreapp1.1\ServicioResturante.Datos.dll
+D:\VStudio\Restaurante\ServicioRestaurante\ServicioResturante.Datos\obj\Debug\netcoreapp1.1\ServicioResturante.Datos.pdb

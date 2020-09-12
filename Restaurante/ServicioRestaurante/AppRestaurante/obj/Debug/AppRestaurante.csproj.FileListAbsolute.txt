@@ -1,0 +1,12 @@
+D:\VStudio\Restaurante\ServicioRestaurante\AppRestaurante\bin\Debug\AppRestaurante.exe.config
+D:\VStudio\Restaurante\ServicioRestaurante\AppRestaurante\bin\Debug\AppRestaurante.exe
+D:\VStudio\Restaurante\ServicioRestaurante\AppRestaurante\bin\Debug\AppRestaurante.pdb
+D:\VStudio\Restaurante\ServicioRestaurante\AppRestaurante\bin\Debug\Newtonsoft.Json.dll
+D:\VStudio\Restaurante\ServicioRestaurante\AppRestaurante\bin\Debug\RestSharp.dll
+D:\VStudio\Restaurante\ServicioRestaurante\AppRestaurante\bin\Debug\Newtonsoft.Json.xml
+D:\VStudio\Restaurante\ServicioRestaurante\AppRestaurante\bin\Debug\RestSharp.xml
+D:\VStudio\Restaurante\ServicioRestaurante\AppRestaurante\obj\Debug\AppRestaurante.csprojAssemblyReference.cache
+D:\VStudio\Restaurante\ServicioRestaurante\AppRestaurante\obj\Debug\AppRestaurante.csproj.CoreCompileInputs.cache
+D:\VStudio\Restaurante\ServicioRestaurante\AppRestaurante\obj\Debug\AppRestaurante.csproj.CopyComplete
+D:\VStudio\Restaurante\ServicioRestaurante\AppRestaurante\obj\Debug\AppRestaurante.exe
+D:\VStudio\Restaurante\ServicioRestaurante\AppRestaurante\obj\Debug\AppRestaurante.pdb

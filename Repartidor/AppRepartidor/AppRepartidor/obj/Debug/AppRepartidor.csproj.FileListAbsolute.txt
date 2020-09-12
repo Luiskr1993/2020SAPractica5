@@ -1,0 +1,12 @@
+D:\VStudio\Repartidor\AppRepartidor\AppRepartidor\bin\Debug\AppRepartidor.exe.config
+D:\VStudio\Repartidor\AppRepartidor\AppRepartidor\bin\Debug\AppRepartidor.exe
+D:\VStudio\Repartidor\AppRepartidor\AppRepartidor\bin\Debug\AppRepartidor.pdb
+D:\VStudio\Repartidor\AppRepartidor\AppRepartidor\bin\Debug\Newtonsoft.Json.dll
+D:\VStudio\Repartidor\AppRepartidor\AppRepartidor\bin\Debug\RestSharp.dll
+D:\VStudio\Repartidor\AppRepartidor\AppRepartidor\bin\Debug\Newtonsoft.Json.xml
+D:\VStudio\Repartidor\AppRepartidor\AppRepartidor\bin\Debug\RestSharp.xml
+D:\VStudio\Repartidor\AppRepartidor\AppRepartidor\obj\Debug\AppRepartidor.csprojAssemblyReference.cache
+D:\VStudio\Repartidor\AppRepartidor\AppRepartidor\obj\Debug\AppRepartidor.csproj.CoreCompileInputs.cache
+D:\VStudio\Repartidor\AppRepartidor\AppRepartidor\obj\Debug\AppRepartidor.csproj.CopyComplete
+D:\VStudio\Repartidor\AppRepartidor\AppRepartidor\obj\Debug\AppRepartidor.exe
+D:\VStudio\Repartidor\AppRepartidor\AppRepartidor\obj\Debug\AppRepartidor.pdb
