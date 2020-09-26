@@ -1,6 +1,9 @@
 # 2020SAPractica5
 Codigo del ejemplo que genera una simulación de un proceso de compra y envío de comida desde un restaurante hacia un cliente, a través de un repartidor. Para esto se implementaron tres microservicios para facilitar la comunicación entre los actores (cliente, restaurante, repartidor). El proceso inicia con el cliente realizando un pedido a través del consumo del microservicio de Cliente-Restaurante, mediante el cual puede estar verificando el estado de su pedido. El restaurante utiliza un microservicio para comunicar el estado del pedido y la solicitud de un repartidor para enviar dicho pedido. Por último, el repartidor y el cliente se comunican a través de un microservicio específico. Toda la simulación fue hecha a través de aplicaciones de consola de windows. 
 
+## Repositorio de Artefactos del proyecto desde Jenkins (DevOps)
+https://github.com/Luiskr1993/2020SAPractica7
+
 ## Especificación de API's 🚀
 Esta práctica esta simulada utilizando tres microservicios tipo REST levantados desde un servidor local a través del framework de visual studio 2017. La descricpión de los microservicios utilizados se define a continuación:
 
